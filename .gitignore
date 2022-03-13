@@ -1,0 +1,12 @@
+# Logs
+log
+log[0-9]
+logfile
+logfile[0-9]
+
+# User data
+user
+
+# Random errors
+calua_err.txt
+lua_err.txt
